@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.7e374d39.css",
+    "main.js": "/test/static/js/main.270d9fa0.js",
+    "static/media/main-video.mp4": "/test/static/media/main-video.8582f2fb8c767c215729.mp4",
+    "static/media/bg-404.png": "/test/static/media/bg-404.fb3e547641b1d1de0cf6.png",
+    "static/media/traceredFile.svg": "/test/static/media/traceredFile.f0b068fedafb3a702b0bc25dd6deffd5.svg",
+    "static/media/logo-inverted-ru.svg": "/test/static/media/logo-inverted-ru.8b505feb04fc9804f4ac5a55a9d7f56e.svg",
+    "static/media/treceredMacOS.svg": "/test/static/media/treceredMacOS.8a85ffbab89e5ee2ee484be1d330122a.svg",
+    "static/media/iconSh.svg": "/test/static/media/iconSh.d6fe8f7587d9d87b64622a0234769cc0.svg",
+    "static/media/key-icon.svg": "/test/static/media/key-icon.94134d44c32f629f3b9abb41bf9965ca.svg",
+    "index.html": "/test/index.html",
+    "static/media/tg-icon.svg": "/test/static/media/tg-icon.641a3f1041700e88d4d2d7ce5a6192dc.svg",
+    "static/media/deleteIcon.svg": "/test/static/media/deleteIcon.5f52b777b60dc6f3eb593ee894ee7b53.svg",
+    "main.7e374d39.css.map": "/test/static/css/main.7e374d39.css.map",
+    "main.270d9fa0.js.map": "/test/static/js/main.270d9fa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e374d39.css",
+    "static/js/main.270d9fa0.js"
+  ]
+}
